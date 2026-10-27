@@ -1,0 +1,7 @@
+Oct 27 01:00:10 server01 sshd[1201]: Failed password for invalid user admin from 203.0.113.42 port 51001 ssh2
+Oct 27 01:01:02 server01 sshd[1202]: Failed password for invalid user admin from 203.0.113.42 port 51002 ssh2
+Oct 27 01:02:15 server01 sshd[1203]: Failed password for invalid user test from 203.0.113.42 port 51003 ssh2
+Oct 27 01:03:08 server01 sshd[1204]: Failed password for invalid user root from 203.0.113.42 port 51004 ssh2
+Oct 27 01:04:20 server01 sshd[1205]: Failed password for invalid user admin from 203.0.113.42 port 51005 ssh2
+Oct 27 01:04:45 server01 sshd[1206]: Accepted password for terran from 198.51.100.25 port 51006 ssh2
+Oct 27 01:06:10 server01 sshd[1207]: Failed password for invalid user guest from 192.0.2.77 port 51007 ssh2
